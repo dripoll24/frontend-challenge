@@ -1,0 +1,17 @@
+.panel-container {
+  background-color: #fff;
+  top: 20px;
+  bottom: 20px;
+  left: 3%;
+  right: 3%;
+  padding: 33px;
+  margin: auto;
+  max-width: 1000px;
+  position: absolute;
+}
+
+.panel-body {
+  overflow-y: scroll;
+  position: relative;
+  height: 100%;
+}

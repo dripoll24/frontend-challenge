@@ -1,0 +1,14 @@
+.table-row {
+  height: 52px;
+  font-size: 14px;
+  cursor: pointer;
+  border-top: 1px solid #dddddd;
+}
+
+.table-row:hover {
+  background-color: #FAFAFA;
+}
+
+.active {
+  background-color: #e5eef5 !important;
+}
